@@ -12,4 +12,12 @@
 
     <artifactId>crowdfunding_admin_webui</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.dragon.crowdfunding</groupId>
+            <artifactId>crowdfunding_admin_component</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
+
 </project>

@@ -8,7 +8,9 @@
     <artifactId>crowdfunding</artifactId>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>crowdfunding_webui</module>
+        <module>crowdfunding_admin_webui</module>
+        <module>crowdfunding_admin_component</module>
+        <module>crowdfunding_admin_entity</module>
     </modules>
     <packaging>pom</packaging>
 

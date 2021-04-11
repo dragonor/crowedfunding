@@ -7,6 +7,9 @@
     <groupId>com.dragon.crowdfunding</groupId>
     <artifactId>crowdfunding</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>crowdfunding_webui</module>
+    </modules>
     <packaging>pom</packaging>
 
 

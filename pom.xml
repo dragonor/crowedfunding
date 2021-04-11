@@ -6,19 +6,16 @@
 
     <groupId>com.dragon.crowdfunding</groupId>
     <artifactId>crowdfunding</artifactId>
-    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+
+    <packaging>pom</packaging>
+
     <modules>
         <module>crowdfunding_common_util</module>
         <module>crowdfunding_common_reverse</module>
+        <module>crowdfunding_admin_parent</module>
     </modules>
-    <!--    <modules>-->
-<!--        <module>crowdfunding_admin_webui</module>-->
-<!--        <module>crowdfunding_admin_component</module>-->
-<!--        <module>crowdfunding_admin_entity</module>-->
-<!--        <module>crowdfunding_admin_parent</module>-->
-<!--    </modules>-->
-<!--    <packaging>pom</packaging>-->
+
 
 
 </project>

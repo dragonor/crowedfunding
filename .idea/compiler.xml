@@ -10,14 +10,10 @@
         <module name="crowdfunding_admin_entity" />
         <module name="crowdfunding_admin_webui" />
         <module name="crowdfunding_admin_component" />
-        <module name="crowdfunding_admin_parent" />
         <module name="crowdfunding_common_util" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="crowdfunding_admin_component" target="1.5" />
-      <module name="crowdfunding_admin_entity" target="1.5" />
-      <module name="crowdfunding_admin_parent" target="1.5" />
       <module name="crowdfunding_admin_webui" target="1.5" />
     </bytecodeTargetLevel>
   </component>

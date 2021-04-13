@@ -6,6 +6,7 @@ import com.dragon.crowd.entity.AdminExample;
 import java.util.List;
 
 import org.apache.ibatis.annotations.Param;
+import org.springframework.stereotype.Repository;
 
 public interface AdminMapper {
     int countByExample(AdminExample example);
